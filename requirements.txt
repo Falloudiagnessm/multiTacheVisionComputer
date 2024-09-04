@@ -1,9 +1,8 @@
-streamlit
-transformers
-Pillow
-matplotlib
-torch
-asttokens
-flash_attn
+streamlit==1.25.0
+torch==2.0.1
+transformers==4.45.0
+Pillow==9.5.0
+matplotlib==3.7.1
+flash_attn==2.6.3
 timm
 einops 
