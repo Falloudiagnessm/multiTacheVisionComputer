@@ -1,3 +1,6 @@
+flash_attn
+timm
+einops 
 streamlit
 transformers
 Pillow
