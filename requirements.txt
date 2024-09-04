@@ -1,9 +1,9 @@
-flash_attn
-timm
-einops 
 streamlit
 transformers
 Pillow
 matplotlib
 torch
 asttokens
+flash_attn
+timm
+einops 
